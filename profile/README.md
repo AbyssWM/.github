@@ -38,4 +38,4 @@ Abyss would not exist without **[hyprwm](https://github.com/hyprwm)** – Hyprla
 
 Abyss is an independent project and is **not affiliated with or endorsed by hyprwm**.
 
-**Contributors:** [bb8TheRobot](https://github.com/bb8TheRobot) · Claude (Anthropic) – AI pair programmer · codex / chatgpt (openai) – ai pair programmer
+**Contributors:** [bb8TheRobot](https://github.com/bb8TheRobot) · Claude (Anthropic) – AI pair programmer · ChatGPT (OpenAI) – AI pair programmer
